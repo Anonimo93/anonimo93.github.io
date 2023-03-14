@@ -4,9 +4,6 @@
     "ghcr.io/devcontainers/feature-starter/hello:1": {
             "greeting": "Hola"
         },
-    "ghcr.io/jarrodcolburn/features/flutter-sdk:0": {},
-    "ghcr.io/jarrodcolburn/features/android-sdk:0": {},
-    "ghcr.io/akhildevelops/devcontainer-features/android-cli:0": {},
-    "ghcr.io/devcontainers-contrib/features/expo-cli:1": {}
+    "ghcr.io/jarrodcolburn/features/flutter-sdk:0": {}
   }
 }
