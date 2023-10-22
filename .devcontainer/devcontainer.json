@@ -1,9 +1,0 @@
-{
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
-    "ghcr.io/devcontainers/feature-starter/hello:1": {
-            "greeting": "Hola"
-        },
-    "ghcr.io/jarrodcolburn/features/flutter-sdk:0": {}
-  }
-}
